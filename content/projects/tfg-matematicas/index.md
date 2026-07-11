@@ -1,16 +1,17 @@
 ---
 title: "Fibrados, K-teoría y el invariante de Hopf"
-summary: "Este trabajo está orientado hacia la comprensión de la fibración y el invariante de Hopf desde la K-teoría."
+summary: "Este trabajo está orientado hacia la comprensión de la fibración de Hopf y sus aplicaciones."
 date: 2026-06-20
 draft: false
 links:
-  - icon: file-pdf
-    icon_pack: fas
-    name: Descargar PDF
-    url: /uploads/TFG.pdf
+  - type: pdf
+    url: "/uploads/TFG.pdf"
 tags:
   - Bundles
   - K-theory
+  - Algebraic Topology
+  - Hopf invariant
+  - Hopf fibration
 ---
 
 ### Resumen del Trabajo

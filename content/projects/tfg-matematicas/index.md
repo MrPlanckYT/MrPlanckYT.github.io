@@ -3,9 +3,6 @@ title: "Fibrados, K-teoría y el invariante de Hopf"
 summary: "Este trabajo está orientado hacia la comprensión de la fibración de Hopf y sus aplicaciones."
 date: 2026-06-20
 draft: false
-links:
-  - type: pdf
-    url: "/uploads/TFG.pdf"
 tags:
   - Bundles
   - K-theory
@@ -13,6 +10,7 @@ tags:
   - Hopf invariant
   - Hopf fibration
 ---
+
 
 ### Resumen del Trabajo
 

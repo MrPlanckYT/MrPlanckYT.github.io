@@ -15,6 +15,9 @@ sections:
       button:
         text: Download CV
         url: uploads/CV.pdf
+      button:
+        text: Download my math grad thesis
+        url: uploads/TFG.pdf  
       headings:
         about: ''
         education: ''

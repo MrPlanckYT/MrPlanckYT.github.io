@@ -13,8 +13,7 @@ postnominals:
 status:
   icon: "☕️"
 role: Student and divulgator.
-bio: Juan Cánovas is a Graduate Student in Physics and Math at Complutense University of Madrid. He plans to be a PhD researcher and currently is doing divulgation videos and online courses at his YouTube channel: Mr Planck.
-
+bio: "Juan Cánovas is a Graduate Student in Physics and Math at Complutense University of Madrid. He plans to be a PhD researcher and currently is doing divulgation videos and online courses at his YouTube channel: Mr Planck."
 
 links:
   - icon: at-symbol
@@ -54,4 +53,4 @@ languages:
 awards:
   - title: Second Award in IMI's mathematical modelization competition
     date: "2024-11"
-    
+

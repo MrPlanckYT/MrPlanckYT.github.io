@@ -17,10 +17,11 @@ bio: "Juan Cánovas is a Graduate Student in Physics and Math at Complutense Uni
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: planck8465@gmail.com
     label: E-mail Me
   - icon: brands/YouTube
     url: https://www.youtube.com/@MrPlanck
+    label: Check my YouTube channel
 
 interests:
   - Yang-Mills theories

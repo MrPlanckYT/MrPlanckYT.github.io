@@ -12,12 +12,13 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/CV.pdf
-      button:
-        text: Download my math grad thesis
-        url: uploads/TFG.pdf  
+      buttons:
+        - button:
+            text: Download CV
+            url: uploads/CV.pdf
+        - button:
+            text: Download my math grad thesis
+            url: uploads/TFG.pdf
       headings:
         about: ''
         education: ''

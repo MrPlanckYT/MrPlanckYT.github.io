@@ -1,7 +1,7 @@
 ---
 title: "Fibrados, K-teoría y el invariante de Hopf"
-summary: "Este trabajo está orientado hacia la comprensión de la fibración de Hopf y sus aplicaciones."
-date: 2026-06-20
+summary: "Este trabajo está orientado hacia la comprensión de la fibración y el invariante de Hopf desde la K-teoría."
+date: 2026-06-29
 draft: false
 tags:
   - Bundles

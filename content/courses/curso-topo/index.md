@@ -1,7 +1,6 @@
 ---
 title: "Topología General"
 summary: "En este curso (aún en desarrollo) explico los conceptos básicos de Topología General a nivel universitario: abiertos, separación, compacidad, conexión, étc..."
-date: 2024-2026
 draft: false
 tags:
   - Matemáticas

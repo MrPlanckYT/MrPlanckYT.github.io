@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2026-07-11
 type: landing
 
 # Page sections

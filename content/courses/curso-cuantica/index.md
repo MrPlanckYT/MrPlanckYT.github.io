@@ -1,7 +1,7 @@
 ---
 title: "Mecánica Cuántica"
 summary: "En este curso explico conceptos básicos y avanzados de Mecánica Cuántica a nivel universitario."
-date: 2025-07-13
+date: 2023-01-28
 draft: false
 tags:
   - Physics

@@ -1,7 +1,7 @@
 ---
 title: "Análisis Complejo"
 summary: "En este curso explico conceptos básicos y avanzados de Análisis Complejo a nivel universitario."  
-date: 2025-07-13
+date: 2024-10-04
 draft: false
 tags:
   - Matematicas

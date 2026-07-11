@@ -1,28 +1,15 @@
 ---
-title: Courses
-summary: My courses
+title: Cursos
 type: landing
-
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
-
+ 
 sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Mis Cursos
       filters:
-        tag: Course
-        kinds:
-          - section
+        folders:
+          - courses
     design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
----
+      view: article-grid 
+--- 

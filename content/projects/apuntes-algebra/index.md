@@ -10,6 +10,6 @@ tags:
 
 ### Resumen del Trabajo
 
-Estos son unos apuntes muy incompletos que complementan al curso online de Álgebra Lineal del canal de 
+Estos son unos apuntes muy incompletos que complementan al curso online de Álgebra Lineal del canal de YouTube.
 
 Pincha aquí para descargar los apuntes [Descargar los apuntes en PDF](/uploads/Algebra.pdf)

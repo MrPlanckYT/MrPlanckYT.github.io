@@ -1,7 +1,7 @@
 ---
 title: "Glueball interactions from the colour Van der Waals potential"
 summary: "Paper"
-date: 2026-09-111
+date: 2026-09-11
 draft: false
 tags:
   - QFT
